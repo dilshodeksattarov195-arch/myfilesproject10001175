@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "loggersync",
+        "uuid": 8289625,
+        "checksum": "jar7rr"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
